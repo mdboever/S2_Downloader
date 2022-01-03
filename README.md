@@ -1,5 +1,10 @@
 
-## GUIDELINE: HOW TO DOWNLOAD SENTINEL-2 IMAGES
+## MANUAL: HOW TO DOWNLOAD SENTINEL-2 IMAGES
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5815473.svg)](https://doi.org/10.5281/zenodo.5815473)
+
 
 
 ### Table of Content
