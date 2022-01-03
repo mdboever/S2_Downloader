@@ -48,7 +48,7 @@ Afterward, you need to change   satellite platform, Cloud Cover %  and sensing d
 
 ### 3. Downloading Sentinel-2 images using Google Earth Engine and Jupyter
 
-![GEE](img/Picture 1.gif)
+![GEE](https://github.com/saberioon/S2_Downloader/blob/master/img/Picture%201.gif)
 
 What you need : 
 1. Google account 
