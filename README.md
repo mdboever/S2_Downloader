@@ -23,7 +23,7 @@
 
 
 
-### 1. Downloand from ESA data hub using web interface.
+### 1. Download from ESA data hub using web interface.
 
 To download Sentinel-2 images from [Copernicus ESA data hub](https://scihub.copernicus.eu/), you need to access to its website through this link : https://scihub.copernicus.eu/dhus/#/home
 
@@ -47,7 +47,7 @@ For more information for using graphical user interface you can refer to this pa
 
 ### 2. Copernicus Downloader
 
-using the [Copernicus Downloader](Copernicus_downloader.py). 
+using the [Copernicus Downloader](src/Copernicus_downloader.py). 
 To use this script, you need username and password explained before, and
 run following code to install all required libraries 
 ``
