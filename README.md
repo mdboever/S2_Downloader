@@ -12,6 +12,12 @@
 1. [Download from ESA data hub using web interface](https://github.com/saberioon/S2_Downloader#1-downloand-from-esa-data-hub-using-web-interface)
 2. [Copernicus Downloader](https://github.com/saberioon/S2_Downloader#2-copernicus-downloader)
 3. [Downloading Sentinel-2 images using Google Earth Engine and Jupyter](https://github.com/saberioon/S2_Downloader#3-downloading-sentinel-2-images-using-google-earth-engine-and-jupyter)
+4. [Acknowledgment](https://github.com/saberioon/S2_Downloader#acknowledgment) 
+5. issues 
+
+
+
+
 
 
 
@@ -65,7 +71,17 @@ What you need :
 
 After launching Jupyter notebook server, open [GEE_S2_PixelExtraction file](src/GEE_S2_PixelExtraction.ipynb), and follow instruction in notebook to download and extracting surface reflectance.  
 
+## Issues and troubleshooting
+
+If you encounter any issue or have any issue, please post your question 
+here : [https://github.com/saberioon/S2_Downloader/issues](https://github.com/saberioon/S2_Downloader/issues)
+
 
 
 ## Acknowledgment 
+EJP Soil 
+
+
+
+
 
