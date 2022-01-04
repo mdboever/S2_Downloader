@@ -3,7 +3,7 @@
 
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5815473.svg)](https://doi.org/10.5281/zenodo.5815473)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5815473.svg)](https://doi.org/10.5281/zenodo.5815473) [![License: EUPL-1.2](https://img.shields.io/badge/License-EUPL%20v1.2-blue.svg)](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
 
 
 
