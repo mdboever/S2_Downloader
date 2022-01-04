@@ -73,7 +73,7 @@ After launching Jupyter notebook server, open [GEE_S2_PixelExtraction file](src/
 
 ## Issues and troubleshooting
 
-If you encounter any issue or have any issue, please post your question 
+If you encounter any issue or have any questions, please post your question 
 here : [https://github.com/saberioon/S2_Downloader/issues](https://github.com/saberioon/S2_Downloader/issues)
 
 
