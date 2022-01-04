@@ -1,5 +1,5 @@
 
-## MANUAL: HOW TO DOWNLOAD SENTINEL-2 IMAGES
+## GUIDELINE: HOW TO DOWNLOAD SENTINEL-2 IMAGES
 
 
 
@@ -9,8 +9,9 @@
 
 ### Table of Content
 
-1. Download from ESA data hub using web interface
-2. Copernicus Downloader
+1. [Download from ESA data hub using web interface](https://github.com/saberioon/S2_Downloader#1-downloand-from-esa-data-hub-using-web-interface)
+2. [Copernicus Downloader](https://github.com/saberioon/S2_Downloader#2-copernicus-downloader)
+3. [Downloading Sentinel-2 images using Google Earth Engine and Jupyter](https://github.com/saberioon/S2_Downloader#3-downloading-sentinel-2-images-using-google-earth-engine-and-jupyter)
 
 
 
@@ -63,3 +64,8 @@ What you need :
    - GeeMAP for visualization and interacting with GEE API (More info: https://geemap.org/installation/)
 
 After launching Jupyter notebook server, open [GEE_S2_PixelExtraction file](src/GEE_S2_PixelExtraction.ipynb), and follow instruction in notebook to download and extracting surface reflectance.  
+
+
+
+## Acknowledgment 
+
