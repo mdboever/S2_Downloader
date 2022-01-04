@@ -13,7 +13,7 @@
 2. [Copernicus Downloader](https://github.com/saberioon/S2_Downloader#2-copernicus-downloader)
 3. [Downloading Sentinel-2 images using Google Earth Engine and Jupyter](https://github.com/saberioon/S2_Downloader#3-downloading-sentinel-2-images-using-google-earth-engine-and-jupyter)
 4. [Acknowledgment](https://github.com/saberioon/S2_Downloader#acknowledgment) 
-5. issues 
+5. [issues](https://github.com/saberioon/S2_Downloader#issues-and-troubleshooting) 
 
 
 
