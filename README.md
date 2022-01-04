@@ -50,9 +50,11 @@ For more information for using graphical user interface you can refer to this pa
 using the [Copernicus Downloader](src/Copernicus_downloader.py). 
 To use this script, you need username and password explained before, and
 run following code to install all required libraries 
+
 ``
 pip install -r requirements.txt
 ``
+
 
 Afterward, you need to change   satellite platform, Cloud Cover %  and sensing data inside the manuscript.
 
@@ -79,7 +81,7 @@ here : [https://github.com/saberioon/S2_Downloader/issues](https://github.com/sa
 
 
 ## Acknowledgment 
-EJP Soil 
+EJP Soil [https://ejpsoil.eu/research-projects/steropes/](https://ejpsoil.eu/research-projects/steropes/)
 
 
 
