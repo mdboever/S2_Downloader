@@ -34,7 +34,7 @@ To be allowed to download any satellite images from Copernicus's program, you ne
 
 Before download you need to prepare a list of available images by defining some parameters including:
 1. satellite platform
-2. product type
+2. product type > **which product to select to have atmorspheric correction? please provide some more information**
 3. Relative Orbita Number
 4. Cloud Cover %  
 
@@ -61,6 +61,7 @@ Afterward, you need to change   satellite platform, Cloud Cover %  and sensing d
 
 
 ### 3. Downloading Sentinel-2 images using Google Earth Engine and Jupyter
+**> advantages of working with Google Earth Engine instead of Copernicus data hub? working with area of interest (part of satellite image) > less bytes to download**  
 
 ![GEE](https://github.com/saberioon/S2_Downloader/blob/master/img/Picture%201.gif)
 
@@ -71,7 +72,7 @@ What you need :
    - Google Earth engine API (To install it refer to this page : https://developers.google.com/earth-engine/guides/python_install)
    - GeeMAP for visualization and interacting with GEE API (More info: https://geemap.org/installation/)
 
-After launching Jupyter notebook server, open [GEE_S2_PixelExtraction file](src/GEE_S2_PixelExtraction.ipynb), and follow instruction in notebook to download and extracting surface reflectance.  
+After launching Jupyter notebook server, open [GEE_S2_PixelExtraction file](src/GEE_S2_PixelExtraction.ipynb), and follow instruction in notebook to download and extracting surface reflectance.  **> maybe also give some more info/scripting on how to work with an area of interest, select satellite images within a certain time period and how do to easy calculations like NDVI using the bands.**
 
 ## Issues and troubleshooting
 
